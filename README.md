@@ -1,4 +1,4 @@
-# Population-genetics-of-Scaly-foot-Snails
+# Population genetics of Scaly-foot-Snails
 This repository contains example commands for analyses run in the manuscript:
 "How to protect a fantastic beastie: Population genomics of the Scaly-foot Snail inhabiting Indian Ocean hot vents eyed for mining"
 
