@@ -1,0 +1,55 @@
+// Priors and rules file
+// *********************
+
+[PARAMETERS]
+//#isInt? #name   #dist.#min  #max 
+//all Ns are in number of haploid individuals
+1  Nlq$     unif     1000  50000   output
+1  Ntc$     unif     1000  50000   output
+1  Nkrso$   unif     1000  50000   output
+1  Non$     unif     1000  50000   output
+1  Nwc$     unif     1000  50000   output
+1  Ngost5$  unif        1000  50000  output
+1  Ngost6$  unif        1000  50000  output
+1  Ngost7$  unif        1000  50000  output
+1  Ngost8$  unif        1000  50000  output
+1  Ngost9$  unif        1000  50000  output
+
+
+1  TDiv_on$     unif  100   100000   output  bounded
+1  TDiv_wc$     unif  TDiv_on$  200000   output  paramInRange
+1  TDiv_G1$     unif  TDiv_wc$  300000  output  paramInRange
+1  TDiv_G0$     unif  TDiv_G1$  500000  output  paramInRange
+
+0  mutation_rates$ unif  0.5e-8  2e-8  output
+
+0  intensity_bot_lq$  unif  0.001   0.1   output
+0  intensity_bot_G1$  unif  0.001   0.1   output
+0  intensity_bot_G2$  unif  0.001   0.1   output
+0  intensity_bot_G0$  unif  0.001   0.1   output
+0  intensity_bot_on$  unif  0.001   0.1   output
+0  intensity_bot_wc$  unif  0.001   0.1   output
+0  intensity_bot_kr$  unif  0.001   0.1   output
+0  intensity_bot_tc$  unif  0.001   0.1   output
+0  intensity_bot_G3$  unif  0.001   0.1   output
+
+0 mwc_on$ logunif 0.00000001 0.000001 output bounded
+0 mon_wc$ logunif 0.00000001 0.000001 output bounded
+0 mwc_5$  logunif 0.0000001 0.0001 output   bounded
+0 mtc_lq$ logunif 0.00000001 0.00001 output bounded
+0 mtc_krso$ logunif 0.00001 0.001 output bounded
+0 mon_krso$ logunif 0.00001 0.001 output bounded
+0 mlq_tc$ logunif 0.0000001 0.0001 output bounded
+0 mlq_8$ logunif  0.0000001 0.0001 output bounded
+0 mlq_7$ logunif  0.0000001 0.0001 output bounded
+0 mkrso_tc$ logunif 0.00001 0.001 output bounded
+0 mkrso_on$ logunif 0.00001 0.001 output bounded
+0 mkrso_5$ logunif  0.00001 0.001 output bounded
+0 m8_lq$ logunif  0.0000001 0.0001 output bounded
+0 m7_lq$ logunif  0.0000001 0.0001 output bounded
+0 m7_6$ logunif  0.00000001 0.00001 output bounded
+0 m6_7$ logunif  0.00000001 0.00001 output bounded
+0 m5_wc$ logunif 0.0000001  0.0001 output bounded
+0 m5_krso$ logunif 0.0000001 0.0001 output bounded
+
+[COMPLEX PARAMETERS]

@@ -1,0 +1,540 @@
+fastsimcoal was invoked with the following command line arguments:
+fsc28 -t ongoing_geneflow.tpl -e ongoing_geneflow.est -m -0 -C 10 -n 200000 -L 40 -s 0 -M -c 0 -q 
+
+Random generator seed : 273118
+
+No population growth detected in input file
+
+Estimating model parameters using 12 batches and 0 thread
+
+Estimation of parameters by conditional maximization via Brent algorithm (initial lhood = -5.30566e+07)
+
+Iter 1	Curr best params:	34163	40972	1.1488739	8.69810e-05	103122	lhood=-2.83896e+07
+Iter 2	Curr best params:	34163	40972	0.2396877	8.69810e-05	103122	lhood=-2.83667e+07
+Iter 3	Curr best params:	34163	40972	0.2396877	8.69810e-05	103122	lhood=-2.83667e+07
+Iter 4	Curr best params:	30777	40972	0.3746291	8.69810e-05	103003	lhood=-2.83636e+07
+Iter 5	Curr best params:	30777	40972	0.3746291	8.69810e-05	103003	lhood=-2.83636e+07
+Iter 6	Curr best params:	30777	40972	0.3746291	8.69810e-05	103003	lhood=-2.83636e+07
+Iter 7	Curr best params:	30777	40972	0.3746291	8.69810e-05	103003	lhood=-2.83636e+07
+Iter 8	Curr best params:	30777	40972	0.3746291	8.69810e-05	103003	lhood=-2.83636e+07
+Iter 9	Curr best params:	30777	40972	0.3746291	8.69810e-05	103003	lhood=-2.83636e+07
+Iter 10	Curr best params:	30777	40972	0.3746291	8.69810e-05	103003	lhood=-2.83636e+07
+Iter 11	Curr best params:	30777	40972	0.3746291	8.69810e-05	103003	lhood=-2.83636e+07
+Iter 12	Curr best params:	30777	40972	0.3746291	8.69810e-05	103003	lhood=-2.83636e+07
+Iter 13	Curr best params:	30777	40972	0.3746291	8.69810e-05	103003	lhood=-2.83636e+07
+Iter 14	Curr best params:	30777	40972	0.3746291	8.69810e-05	103003	lhood=-2.83636e+07
+Iter 15	Curr best params:	30777	40972	0.3746291	8.69810e-05	103003	lhood=-2.83636e+07
+Iter 16	Curr best params:	30777	40972	0.3746291	8.69810e-05	103003	lhood=-2.83636e+07
+Iter 17	Curr best params:	34092	41401	0.1824580	8.70624e-05	91565	lhood=-2.83632e+07
+Iter 18	Curr best params:	34092	41401	0.1824580	8.70624e-05	91565	lhood=-2.83632e+07
+Iter 19	Curr best params:	34092	41401	0.1824580	8.70624e-05	91565	lhood=-2.83632e+07
+Iter 20	Curr best params:	30989	41401	1.0031095	8.71438e-05	102647	lhood=-2.83549e+07
+Iter 21	Curr best params:	30989	41401	1.0031095	8.71438e-05	102647	lhood=-2.83549e+07
+Iter 22	Curr best params:	30989	41401	1.0031095	8.71438e-05	102647	lhood=-2.83549e+07
+Iter 23	Curr best params:	30989	41401	1.0031095	8.71438e-05	102647	lhood=-2.83549e+07
+Iter 24	Curr best params:	30989	41401	1.0031095	8.71438e-05	102647	lhood=-2.83549e+07
+Iter 25	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+Iter 26	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+Iter 27	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+Iter 28	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+Iter 29	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+Iter 30	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+Iter 31	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+Iter 32	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+Iter 33	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+Iter 34	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+Iter 35	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+Iter 36	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+Iter 37	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+Iter 38	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+Iter 39	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+Iter 40	Curr best params:	34039	41401	0.3173208	8.71438e-05	102529	lhood=-2.83487e+07
+
+Program total execution time: 421.857 seconds
+
+fastsimcoal was invoked with the following command line arguments:
+fsc28 -t ongoing_geneflow.tpl -e ongoing_geneflow.est -m -0 -C 10 -n 200000 -L 40 -s 0 -M -c 0 -q 
+
+Random generator seed : 886509
+
+No population growth detected in input file
+
+Estimating model parameters using 12 batches and 0 thread
+
+Estimation of parameters by conditional maximization via Brent algorithm (initial lhood = -5.77578e+07)
+
+Iter 1	Curr best params:	23860	41590	0.1369893	8.93355e-05	93976	lhood=-2.84096e+07
+Iter 2	Curr best params:	33319	41590	0.1214722	8.93355e-05	93976	lhood=-2.83633e+07
+Iter 3	Curr best params:	30023	41590	0.1214722	8.93355e-05	93976	lhood=-2.83561e+07
+Iter 4	Curr best params:	30023	41590	0.1214722	8.93355e-05	93976	lhood=-2.83561e+07
+Iter 5	Curr best params:	30023	41590	0.1214722	8.93355e-05	93976	lhood=-2.83561e+07
+Iter 6	Curr best params:	30023	41590	0.1214722	8.93355e-05	93976	lhood=-2.83561e+07
+Iter 7	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 8	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 9	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 10	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 11	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 12	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 13	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 14	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 15	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 16	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 17	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 18	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 19	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 20	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 21	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 22	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 23	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 24	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 25	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 26	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 27	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 28	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 29	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 30	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 31	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 32	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 33	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 34	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 35	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 36	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 37	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 38	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 39	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+Iter 40	Curr best params:	30379	41590	0.1594588	8.94188e-05	93869	lhood=-2.83495e+07
+
+Program total execution time: 416.472 seconds
+
+fastsimcoal was invoked with the following command line arguments:
+fsc28 -t ongoing_geneflow.tpl -e ongoing_geneflow.est -m -0 -C 10 -n 200000 -L 40 -s 0 -M -c 0 -q 
+
+Random generator seed : 318342
+
+No population growth detected in input file
+
+Estimating model parameters using 12 batches and 0 thread
+
+Estimation of parameters by conditional maximization via Brent algorithm (initial lhood = -5.3239e+07)
+
+Iter 1	Curr best params:	22517	42774	0.1833451	8.76025e-05	90987	lhood=-2.84479e+07
+Iter 2	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 3	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 4	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 5	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 6	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 7	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 8	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 9	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 10	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 11	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 12	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 13	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 14	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 15	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 16	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 17	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 18	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 19	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 20	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 21	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 22	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 23	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 24	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 25	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 26	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 27	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 28	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 29	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 30	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 31	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 32	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 33	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 34	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 35	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 36	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 37	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 38	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 39	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+Iter 40	Curr best params:	30762	42774	0.2156140	8.76025e-05	90987	lhood=-2.83477e+07
+
+Program total execution time: 424.626 seconds
+
+fastsimcoal was invoked with the following command line arguments:
+fsc28 -t ongoing_geneflow.tpl -e ongoing_geneflow.est -m -0 -C 10 -n 200000 -L 40 -s 0 -M -c 0 -q 
+
+Random generator seed : 232638
+
+No population growth detected in input file
+
+Estimating model parameters using 12 batches and 0 thread
+
+Estimation of parameters by conditional maximization via Brent algorithm (initial lhood = -4.98123e+07)
+
+Iter 1	Curr best params:	31734	43967	0.2999195	8.62062e-05	87675	lhood=-2.83659e+07
+Iter 2	Curr best params:	35199	43967	0.2999195	8.62062e-05	87675	lhood=-2.83534e+07
+Iter 3	Curr best params:	31419	43967	0.2999195	8.62062e-05	98842	lhood=-2.83507e+07
+Iter 4	Curr best params:	31419	43967	0.2999195	8.62062e-05	98842	lhood=-2.83507e+07
+Iter 5	Curr best params:	31419	43967	0.2999195	8.62062e-05	98842	lhood=-2.83507e+07
+Iter 6	Curr best params:	31419	43967	0.2999195	8.62062e-05	98842	lhood=-2.83507e+07
+Iter 7	Curr best params:	31419	43967	0.2999195	8.62062e-05	98842	lhood=-2.83507e+07
+Iter 8	Curr best params:	31419	43967	0.2999195	8.62062e-05	98842	lhood=-2.83507e+07
+Iter 9	Curr best params:	31419	43967	0.2999195	8.62062e-05	98842	lhood=-2.83507e+07
+Iter 10	Curr best params:	31419	43967	0.2999195	8.62062e-05	98842	lhood=-2.83507e+07
+Iter 11	Curr best params:	31419	43967	0.2999195	8.62062e-05	98842	lhood=-2.83507e+07
+Iter 12	Curr best params:	31419	43967	0.2999195	8.62062e-05	98842	lhood=-2.83507e+07
+Iter 13	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 14	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 15	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 16	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 17	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 18	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 19	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 20	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 21	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 22	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 23	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 24	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 25	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 26	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 27	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 28	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 29	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 30	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 31	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 32	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 33	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 34	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 35	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 36	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 37	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 38	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 39	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+Iter 40	Curr best params:	34556	43873	0.1815451	8.62062e-05	98842	lhood=-2.83449e+07
+
+Program total execution time: 424.193 seconds
+
+fastsimcoal was invoked with the following command line arguments:
+fsc28 -t ongoing_geneflow.tpl -e ongoing_geneflow.est -m -0 -C 10 -n 200000 -L 40 -s 0 -M -c 0 -q 
+
+Random generator seed : 431729
+
+No population growth detected in input file
+
+Estimating model parameters using 12 batches and 0 thread
+
+Estimation of parameters by conditional maximization via Brent algorithm (initial lhood = -6.05617e+07)
+
+Iter 1	Curr best params:	27761	41396	0.1312391	8.66332e-05	100399	lhood=-2.83871e+07
+Iter 2	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 3	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 4	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 5	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 6	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 7	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 8	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 9	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 10	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 11	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 12	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 13	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 14	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 15	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 16	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 17	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 18	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 19	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 20	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 21	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 22	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 23	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 24	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 25	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 26	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 27	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 28	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 29	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 30	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 31	Curr best params:	34099	41396	0.1952791	8.66332e-05	100399	lhood=-2.83596e+07
+Iter 32	Curr best params:	31078	41827	0.4899422	8.68767e-05	100399	lhood=-2.83580e+07
+Iter 33	Curr best params:	31078	41827	0.4899422	8.68767e-05	100399	lhood=-2.83580e+07
+Iter 34	Curr best params:	31078	41827	0.4899422	8.68767e-05	100399	lhood=-2.83580e+07
+Iter 35	Curr best params:	31078	41827	0.4899422	8.68767e-05	100399	lhood=-2.83580e+07
+Iter 36	Curr best params:	31078	41827	0.4899422	8.68767e-05	100399	lhood=-2.83580e+07
+Iter 37	Curr best params:	31078	41827	0.4899422	8.68767e-05	100399	lhood=-2.83580e+07
+Iter 38	Curr best params:	31078	41827	0.4899422	8.68767e-05	100399	lhood=-2.83580e+07
+Iter 39	Curr best params:	31078	41827	0.4899422	8.68767e-05	100399	lhood=-2.83580e+07
+Iter 40	Curr best params:	31078	41827	0.4899422	8.68767e-05	100399	lhood=-2.83580e+07
+
+Program total execution time: 407.251 seconds
+
+fastsimcoal was invoked with the following command line arguments:
+fsc28 -t ongoing_geneflow.tpl -e ongoing_geneflow.est -m -0 -C 10 -n 200000 -L 40 -s 0 -M -c 0 -q 
+
+Random generator seed : 753232
+
+No population growth detected in input file
+
+Estimating model parameters using 12 batches and 0 thread
+
+Estimation of parameters by conditional maximization via Brent algorithm (initial lhood = -5.3145e+07)
+
+Iter 1	Curr best params:	32489	41394	0.3464170	9.10003e-05	87482	lhood=-2.83698e+07
+Iter 2	Curr best params:	32489	41394	0.3464170	9.10003e-05	87482	lhood=-2.83698e+07
+Iter 3	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 4	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 5	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 6	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 7	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 8	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 9	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 10	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 11	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 12	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 13	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 14	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 15	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 16	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 17	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 18	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 19	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 20	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 21	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 22	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 23	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 24	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 25	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 26	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 27	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 28	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 29	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 30	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 31	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 32	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 33	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 34	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 35	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 36	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 37	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 38	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 39	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+Iter 40	Curr best params:	33874	41350	0.2075868	9.10003e-05	87482	lhood=-2.83505e+07
+
+Program total execution time: 401.886 seconds
+
+fastsimcoal was invoked with the following command line arguments:
+fsc28 -t ongoing_geneflow.tpl -e ongoing_geneflow.est -m -0 -C 10 -n 200000 -L 40 -s 0 -M -c 0 -q 
+
+Random generator seed : 330396
+
+No population growth detected in input file
+
+Estimating model parameters using 12 batches and 0 thread
+
+Estimation of parameters by conditional maximization via Brent algorithm (initial lhood = -4.65824e+07)
+
+Iter 1	Curr best params:	2058	11814	0.2635215	8.61490e-05	94716	lhood=-3.28728e+07
+Iter 2	Curr best params:	18917	37804	0.2635215	8.61490e-05	94716	lhood=-2.85586e+07
+Iter 3	Curr best params:	34378	42006	0.1946072	8.61490e-05	94716	lhood=-2.83731e+07
+Iter 4	Curr best params:	34378	42006	0.1946072	8.61490e-05	94716	lhood=-2.83731e+07
+Iter 5	Curr best params:	33364	42006	0.2268635	8.62297e-05	106215	lhood=-2.83691e+07
+Iter 6	Curr best params:	33364	42006	0.2268635	8.62297e-05	106215	lhood=-2.83691e+07
+Iter 7	Curr best params:	33364	42006	0.2268635	8.62297e-05	106215	lhood=-2.83691e+07
+Iter 8	Curr best params:	33364	42006	0.2268635	8.62297e-05	106215	lhood=-2.83691e+07
+Iter 9	Curr best params:	33364	42006	0.2268635	8.62297e-05	106215	lhood=-2.83691e+07
+Iter 10	Curr best params:	33364	42006	0.2268635	8.62297e-05	106215	lhood=-2.83691e+07
+Iter 11	Curr best params:	28946	41962	0.2826499	8.63104e-05	94391	lhood=-2.83645e+07
+Iter 12	Curr best params:	28946	41962	0.2826499	8.63104e-05	94391	lhood=-2.83645e+07
+Iter 13	Curr best params:	28946	41962	0.2826499	8.63104e-05	94391	lhood=-2.83645e+07
+Iter 14	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 15	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 16	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 17	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 18	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 19	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 20	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 21	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 22	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 23	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 24	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 25	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 26	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 27	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 28	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 29	Curr best params:	32078	41962	0.5296605	8.63104e-05	94283	lhood=-2.83582e+07
+Iter 30	Curr best params:	31528	41966	0.3244377	8.64721e-05	93852	lhood=-2.83532e+07
+Iter 31	Curr best params:	31528	41966	0.3244377	8.64721e-05	93852	lhood=-2.83532e+07
+Iter 32	Curr best params:	31528	41966	0.3244377	8.64721e-05	93852	lhood=-2.83532e+07
+Iter 33	Curr best params:	31528	41966	0.3244377	8.64721e-05	93852	lhood=-2.83532e+07
+Iter 34	Curr best params:	31528	41966	0.3244377	8.64721e-05	93852	lhood=-2.83532e+07
+Iter 35	Curr best params:	31528	41966	0.3244377	8.64721e-05	93852	lhood=-2.83532e+07
+Iter 36	Curr best params:	31528	41966	0.3244377	8.64721e-05	93852	lhood=-2.83532e+07
+Iter 37	Curr best params:	31528	41966	0.3244377	8.64721e-05	93852	lhood=-2.83532e+07
+Iter 38	Curr best params:	31528	41966	0.3244377	8.64721e-05	93852	lhood=-2.83532e+07
+Iter 39	Curr best params:	31528	41966	0.3244377	8.64721e-05	93852	lhood=-2.83532e+07
+Iter 40	Curr best params:	31528	41966	0.3244377	8.64721e-05	93852	lhood=-2.83532e+07
+
+Program total execution time: 438.126 seconds
+
+fastsimcoal was invoked with the following command line arguments:
+fsc28 -t ongoing_geneflow.tpl -e ongoing_geneflow.est -m -0 -C 10 -n 200000 -L 40 -s 0 -M -c 0 -q 
+
+Random generator seed : 772347
+
+No population growth detected in input file
+
+Estimating model parameters using 12 batches and 0 thread
+
+Estimation of parameters by conditional maximization via Brent algorithm (initial lhood = -3.46839e+07)
+
+Iter 1	Curr best params:	24984	41626	0.1536997	8.32954e-05	100328	lhood=-2.84324e+07
+Iter 2	Curr best params:	35845	41626	0.1131428	8.32954e-05	100328	lhood=-2.83681e+07
+Iter 3	Curr best params:	35845	41626	0.1131428	8.32954e-05	100328	lhood=-2.83681e+07
+Iter 4	Curr best params:	35845	41626	0.1131428	8.32954e-05	100328	lhood=-2.83681e+07
+Iter 5	Curr best params:	35845	41626	0.1131428	8.32954e-05	100328	lhood=-2.83681e+07
+Iter 6	Curr best params:	35845	41626	0.1131428	8.32954e-05	100328	lhood=-2.83681e+07
+Iter 7	Curr best params:	35845	41626	0.1131428	8.32954e-05	100328	lhood=-2.83681e+07
+Iter 8	Curr best params:	35525	41626	0.1631985	8.32954e-05	100328	lhood=-2.83645e+07
+Iter 9	Curr best params:	31991	41626	0.1295046	8.32954e-05	100328	lhood=-2.83634e+07
+Iter 10	Curr best params:	31991	41626	0.1295046	8.32954e-05	100328	lhood=-2.83634e+07
+Iter 11	Curr best params:	31991	41626	0.1295046	8.32954e-05	100328	lhood=-2.83634e+07
+Iter 12	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 13	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 14	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 15	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 16	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 17	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 18	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 19	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 20	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 21	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 22	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 23	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 24	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 25	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 26	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 27	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 28	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 29	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 30	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 31	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 32	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 33	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 34	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 35	Curr best params:	31991	41626	0.1620741	8.32954e-05	100328	lhood=-2.83632e+07
+Iter 36	Curr best params:	37538	41626	0.2279237	8.33737e-05	100328	lhood=-2.83614e+07
+Iter 37	Curr best params:	37538	41626	0.2279237	8.33737e-05	100328	lhood=-2.83614e+07
+Iter 38	Curr best params:	31730	41626	0.2021104	8.33737e-05	100328	lhood=-2.83611e+07
+Iter 39	Curr best params:	36443	41626	0.1379960	8.33737e-05	100328	lhood=-2.83578e+07
+Iter 40	Curr best params:	36443	41626	0.1379960	8.33737e-05	100328	lhood=-2.83578e+07
+
+Program total execution time: 413.546 seconds
+
+fastsimcoal was invoked with the following command line arguments:
+fsc28 -t ongoing_geneflow.tpl -e ongoing_geneflow.est -m -0 -C 10 -n 200000 -L 40 -s 0 -M -c 0 -q 
+
+Random generator seed : 280446
+
+No population growth detected in input file
+
+Estimating model parameters using 12 batches and 0 thread
+
+Estimation of parameters by conditional maximization via Brent algorithm (initial lhood = -4.53941e+07)
+
+Iter 1	Curr best params:	34690	40767	1.5544977	8.50268e-05	100796	lhood=-2.84078e+07
+Iter 2	Curr best params:	27515	40767	0.3744210	8.50268e-05	100796	lhood=-2.83982e+07
+Iter 3	Curr best params:	39406	40767	0.3744210	8.50268e-05	100796	lhood=-2.83842e+07
+Iter 4	Curr best params:	31902	40767	0.1446609	8.50268e-05	100796	lhood=-2.83718e+07
+Iter 5	Curr best params:	31902	40767	0.1446609	8.50268e-05	100796	lhood=-2.83646e+07
+Iter 6	Curr best params:	31902	40767	0.1446609	8.50268e-05	100796	lhood=-2.83646e+07
+Iter 7	Curr best params:	31902	40767	0.1446609	8.50268e-05	100796	lhood=-2.83646e+07
+Iter 8	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 9	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 10	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 11	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 12	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 13	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 14	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 15	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 16	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 17	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 18	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 19	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 20	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 21	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 22	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 23	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 24	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 25	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 26	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 27	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 28	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 29	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 30	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 31	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 32	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 33	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 34	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 35	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 36	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 37	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 38	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 39	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+Iter 40	Curr best params:	31869	40767	0.3962809	8.50268e-05	89827	lhood=-2.83616e+07
+
+Program total execution time: 420.864 seconds
+
+fastsimcoal was invoked with the following command line arguments:
+fsc28 -t ongoing_geneflow.tpl -e ongoing_geneflow.est -m -0 -C 10 -n 200000 -L 40 -s 0 -M -c 0 -q 
+
+Random generator seed : 936825
+
+No population growth detected in input file
+
+Estimating model parameters using 12 batches and 0 thread
+
+Estimation of parameters by conditional maximization via Brent algorithm (initial lhood = -3.01608e+07)
+
+Iter 1	Curr best params:	30888	40885	0.1107176	8.60713e-05	98693	lhood=-2.83819e+07
+Iter 2	Curr best params:	30888	40885	0.1177523	8.60713e-05	98693	lhood=-2.83763e+07
+Iter 3	Curr best params:	30888	40885	0.1250699	8.60713e-05	98693	lhood=-2.83694e+07
+Iter 4	Curr best params:	30888	40885	0.1250699	8.60713e-05	98693	lhood=-2.83654e+07
+Iter 5	Curr best params:	30888	40885	0.1250699	8.60713e-05	98693	lhood=-2.83654e+07
+Iter 6	Curr best params:	30888	40885	0.1250699	8.60713e-05	98693	lhood=-2.83654e+07
+Iter 7	Curr best params:	30888	40885	0.1250699	8.60713e-05	98693	lhood=-2.83654e+07
+Iter 8	Curr best params:	30888	40885	0.1250699	8.60713e-05	98693	lhood=-2.83654e+07
+Iter 9	Curr best params:	30888	40885	0.1250699	8.60713e-05	98693	lhood=-2.83654e+07
+Iter 10	Curr best params:	30888	40885	0.1250699	8.60713e-05	98693	lhood=-2.83654e+07
+Iter 11	Curr best params:	30888	40885	0.1250699	8.60713e-05	98693	lhood=-2.83654e+07
+Iter 12	Curr best params:	30888	40885	0.1250699	8.60713e-05	98693	lhood=-2.83654e+07
+Iter 13	Curr best params:	30888	40885	0.1250699	8.60713e-05	98693	lhood=-2.83654e+07
+Iter 14	Curr best params:	30888	40885	0.1250699	8.60713e-05	98693	lhood=-2.83654e+07
+Iter 15	Curr best params:	31161	40885	0.1410988	8.60713e-05	98693	lhood=-2.83632e+07
+Iter 16	Curr best params:	31161	40885	0.1410988	8.60713e-05	98693	lhood=-2.83632e+07
+Iter 17	Curr best params:	31161	40885	0.1410988	8.60713e-05	98693	lhood=-2.83632e+07
+Iter 18	Curr best params:	31161	40885	0.1410988	8.60713e-05	98693	lhood=-2.83632e+07
+Iter 19	Curr best params:	31161	40885	0.1410988	8.60713e-05	98693	lhood=-2.83632e+07
+Iter 20	Curr best params:	31161	40885	0.1410988	8.60713e-05	98693	lhood=-2.83632e+07
+Iter 21	Curr best params:	31161	40885	0.1410988	8.60713e-05	98693	lhood=-2.83632e+07
+Iter 22	Curr best params:	31161	40885	0.1410988	8.60713e-05	98693	lhood=-2.83632e+07
+Iter 23	Curr best params:	31161	40885	0.1410988	8.60713e-05	98693	lhood=-2.83632e+07
+Iter 24	Curr best params:	31161	40885	0.1410988	8.60713e-05	98693	lhood=-2.83632e+07
+Iter 25	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+Iter 26	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+Iter 27	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+Iter 28	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+Iter 29	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+Iter 30	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+Iter 31	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+Iter 32	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+Iter 33	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+Iter 34	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+Iter 35	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+Iter 36	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+Iter 37	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+Iter 38	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+Iter 39	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+Iter 40	Curr best params:	33943	40885	0.1867077	8.60713e-05	98693	lhood=-2.83592e+07
+
+Program total execution time: 347.541 seconds
+

@@ -1,0 +1,14 @@
+// Priors and rules file
+// *********************
+
+[PARAMETERS]
+//#isInt? #name #dist.#min #max
+//all Ns are in number of haploid individuals
+1 N0 logunif 100 50000 output bounded
+1 N1 logunif 100 50000 output bounded
+0 RSANC logunif 0.1 2 output  bounded
+0 MIG1 logunif 0.00001 0.01 output bounded
+0 MIG2 logunif 0.00001 0.01 output bounded
+1 Ta logunif 100 20000 output bounded
+
+[COMPLEX PARAMETERS]

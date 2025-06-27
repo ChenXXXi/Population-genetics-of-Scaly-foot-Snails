@@ -1,0 +1,75 @@
+source("myfunctions.R")
+source("generations.R")
+nrows <- -1
+
+# parameters that need to be defined before calling this function :
+# infile_params, for instance "/work/sboitard/stan/abc18/res/sim_files/try22_all_n100_s100_mac5.params"
+# infile_stats, for instance "/work/sboitard/stan/abc18/res/sim_files/try22_all_n70_s100_mac4.stat"
+# n, for instance 70
+# mac, for instance 4
+#target_maf=0.2
+#target_mac=9
+# infile_stat_ld
+
+params_all <- read.table(infile_params,nrows=nrows)
+stat_all <- read.table(infile_stat,nrows=nrows)
+stat_all_ld=read.table(infile_stat_ld,nrows=nrows)
+
+# parameter names names
+colnames(params_all) <- c("m","r",paste("N",round(generations_numbers),sep=""))
+
+# stat names
+d=rep("?",nb_dist)
+ind=which(ld_distances<10000)
+d[ind]=paste(round(ld_distances[ind]),'b',sep="")
+d[-ind]=paste(round(ld_distances[-ind]/1000),'kb',sep="")
+
+var_names1=c(paste("AFS_",1:(n/2),sep=""),paste("V_AFS_",1:(n/2),sep=""),paste("LD_",d,sep=""),paste("V_LD_",d,sep=""),paste("LD_zyg_",d,sep=""),paste("V_LD_zyg_",d,sep=""))
+probs=c(0.0001,0.001,0.01,0.1,0.25,0.5,0.75,0.9,0.99,0.999,0.9999)
+nb_prob=length(probs)
+m=c(50,5,2,1)
+m[1]=n/2
+nb_m=length(m)
+var_names2=paste("IBS",m[1],"_",probs,sep="")
+for (i in 2:4){
+	var_names2=c(var_names2,paste("IBS",m[i],"_",probs,sep=""))
+}
+colnames(stat_all) <- c(var_names1,var_names2,'SNP')
+
+# replaces ld columns
+stat_all[,n+(1:(4*nb_dist))]=stat_all_ld[,n+(1:(4*nb_dist))]
+rm(stat_all_ld)
+
+# remove stats for allele counts below mac
+if (mac>1){
+	ind_rem=c(1:(mac-1),n/2+(1:(mac-1)))
+	stat_all=stat_all[,-ind_rem]
+}
+fin_afs=2*(n/2-mac+1)
+
+# specific conditions for small n :
+if (n==10){
+	ind_rem=fin_afs+4*nb_dist+(1:nb_prob)
+	stat_all=stat_all[,-ind_rem]
+}
+if ((n<10)&(n>=4)){
+	ind_rem=fin_afs+4*nb_dist+nb_prob+(1:nb_prob)
+	stat_all=stat_all[,-ind_rem]
+}
+if (n==4){ # it is assumed that less than 4 is never tried
+	ind_rem=fin_afs+4*nb_dist+(1:(2*nb_prob))
+	stat_all=stat_all[,-ind_rem]
+}
+
+# remove missing values (ignoring variance stats that will not be used)
+nb_afs=n/2-mac+1
+ivafs=nb_afs+(1:nb_afs)
+ivhapld=2*nb_afs+nb_dist+(1:(nb_dist-1))
+ivld=2*nb_afs+3*nb_dist+(1:(nb_dist-1))
+gr <- good.rows(stat_all[,-c(ivafs,ivld,ivhapld)])
+stat <- stat_all[gr,]
+params <- params_all[gr,]
+
+print(paste("stat matrix dimensions :",dim(stat)[1],dim(stat)[2],sep=" "))
+print(paste("params matrix dimensions :",dim(params)[1],dim(params)[2],sep=" "))
+
