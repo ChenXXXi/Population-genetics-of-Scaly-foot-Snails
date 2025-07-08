@@ -1,0 +1,1 @@
+~/biosoftware/miniforge3/envs/finestructure4/bin/plink2chromopainter.pl -m=snpEff.bctools.gatk.maf005.mis095.pruned.map -p=snpEff.bctools.gatk.maf005.mis095.pruned.ped -o=snpEff.bctools.gatk.maf005.mis095.pruned.phase -d=snpEff.bctools.gatk.maf005.mis095.pruned.ids

@@ -1,0 +1,38 @@
+Project:
+-----------------------
+Project name          = batch:/home/xichen/chenxi/onnare_8/06.NOVOPlasty/na.batch.txt
+Type                  = mito
+Genome Range          = 18000-24000
+K-mer                 = 33
+Max memory            = 64
+Extended log          = 0
+Save assembled reads  = no
+Seed Input            = batch
+Extend seed directly  = no
+Reference sequence    = batch
+Variance detection    = yes
+Chloroplast sequence  = 
+
+Dataset 1:
+-----------------------
+Read Length           = 150
+Insert size           = 500
+Platform              = illumina
+Single/Paired         = PE
+Combined reads        = 
+Forward reads         = batch
+Reverse reads         = batch
+Store Hash            =
+
+Heteroplasmy:
+-----------------------
+MAF                   = 
+HP exclude list       = 
+PCR-free              = 
+
+Optional:
+-----------------------
+Insert size auto      = yes
+Use Quality Scores    = no
+Reduce ambigious N's  = 
+Output path           = /home/xichen/chenxi/onnare_8/06.NOVOPlasty/na/

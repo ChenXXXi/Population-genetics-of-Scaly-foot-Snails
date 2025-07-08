@@ -1,0 +1,19 @@
+// Priors and rules file
+// *********************
+
+[PARAMETERS]
+//#isInt? #name   #dist.#min  #max 
+//all Ns are in number of haploid individuals
+1  Nsou$     logunif     100  100000   output
+1  Nmid$     logunif     100  100000   output
+1  Nnor$     logunif     100  100000   output
+
+0  intensity_bot_nor$  unif  0.001   0.1   output
+0  intensity_bot_sou$  unif  0.001   0.1   output
+
+0 mig_mid2sou$ logunif 0.000001 0.001 output
+0 mig_sou2mid$ logunif 0.000001 0.001 output
+0 mig_nor2mid$ logunif 0.000001 0.001 output
+0 mig_mid2nor$ logunif 0.000001 0.001 output
+
+[COMPLEX PARAMETERS]
